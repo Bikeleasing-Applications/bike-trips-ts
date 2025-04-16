@@ -1,0 +1,20 @@
+{
+  "name": "bike-trips-ts",
+  "version": "1.0.0",
+  "description": "Hi there! 👋",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "csv-parse": "^5.5.4",
+    "typescript": "^5.3.3"
+  }
+}
