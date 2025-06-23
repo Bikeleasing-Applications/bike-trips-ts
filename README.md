@@ -22,7 +22,7 @@ The main tasks include:
 
 This repository is set up with a minimal structure to allow candidates to quickly get started. You'll find:
 
-- A Docker environment and basic PHP repo
+- A Docker environment and basic TypeScript repo
 - The `trips.csv` dataset in the data directory
 
 ## Getting Started
@@ -31,7 +31,7 @@ This repository is set up with a minimal structure to allow candidates to quickl
 
 - Docker and Docker Compose
 - Git
-- Your preferred IDE (e.g. PhpStorm/VSCode for PHP)
+- Your preferred IDE (e.g. WebStorm/VSCode for TypeScript)
 
 ### Setup Instructions
 
