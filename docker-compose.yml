@@ -1,0 +1,9 @@
+services:
+  bike-trips:
+    build: .
+    container_name: bike-trips-container
+    volumes:
+      - .:/usr/src/app
+      - ./data:/usr/src/app/data
+    environment:
+      - NODE_ENV=production
